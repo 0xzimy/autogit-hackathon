@@ -1,6 +1,6 @@
 ---
 title: Smart Summarizer
-app_type: AI Tool
+app_type: smart-summarizer
 wallet: 0x14c94df8c50b854241191fabdbf682c5476ea56f
 ---
 
